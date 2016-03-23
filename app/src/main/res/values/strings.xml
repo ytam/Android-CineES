@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="title_activity_model">Model</string>
+    <string-array name="sinema">
+        <item>Lütfen Bir Sinema Salonu Seçiniz!</item>
+        <item>Espark Cinemaximun </item>
+        <item>Özdilek Cinetime</item>
+        <item>Kanatlı Cinema Pink</item>
+
+
+
+    </string-array>
+</resources>
